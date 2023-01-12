@@ -2,7 +2,7 @@
 I'm Arya. Just an ordinary student pursuing his dream of becoming a Software Engineer.
 
 # Who am I?
-![Immanuel Arya](img/me.jpg)
+![Immanuel Arya](img/me.jpg)\
 My fullname is Immanuel Arya, but everyone used to call me Arya. I'm currently living in Bandung as a college student. I do have some knowledge in Web Development as i learned them in my campus. So by joining RevoU FSSE Program, i expect to learn a lot of Web Developing and to build my career as a Software Engineer. 
 
 # My Links
